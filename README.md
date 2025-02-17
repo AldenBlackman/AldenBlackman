@@ -1,9 +1,9 @@
 ## Hi there 👋
-# 🔭 I’m currently working on creating some personal python projects to show prosepctive employers
-🌱 I’m currently learning python
-💬 Ask me about my best fish story
-📫 How to reach me: email: aldenb467287@gmail.com
-😄 Pronouns: he/him
+- 🔭 I’m currently working on creating some personal python projects to show prosepctive employers
+- 🌱 I’m currently learning python
+- 💬 Ask me about my best fish story
+- 📫 How to reach me: email: aldenb467287@gmail.com
+- 😄 Pronouns: he/him
 
 <!--
 **AldenBlackman/AldenBlackman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
